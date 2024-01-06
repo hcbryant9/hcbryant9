@@ -1,9 +1,12 @@
 ### Hi there welcome to my GitHub!👋
 [![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcbryant9)](https://github.com/hcbryant9)
 
+### My Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcbryant9&layout=compact)](https://github.com/hcbryant9)
 
 
-### Current Project: Kinect PD
+### Previous Project: Kinect PD
 
 🚀 I'm currently working on Kinect PD, where [a user plays a Pure Data patch with the XBox Kinect v2].
 
