@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcbryant9)](https://github.com/hcbryant9)
 <!--
 **hcbryant9/hcbryant9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
