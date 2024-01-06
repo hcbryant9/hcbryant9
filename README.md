@@ -3,9 +3,9 @@
 
 
 
-### Current Project: [Kinect PD]
+### Current Project: Kinect PD
 
-🚀 I'm currently working on [Kinect PD], where [a user plays a Pure Data patch with the XBox Kinect v2].
+🚀 I'm currently working on Kinect PD, where [a user plays a Pure Data patch with the XBox Kinect v2].
 
 🔧 Here's what's the tools used:
 - [Unity and C#]
