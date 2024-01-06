@@ -8,9 +8,9 @@
 🚀 I'm currently working on Kinect PD, where [a user plays a Pure Data patch with the XBox Kinect v2].
 
 🔧 Here's what's the tools used:
-- [Unity and C#]
-- [Pure Data]
-- [Kinect v2 Software Development Kit]
+- Unity and C#
+- Pure Data
+- Kinect v2 Software Development Kit
 
 
 👀 Check it out [here](https://github.com/hcbryant9/KinectPD) or on my site [here](https://hank1wdo.com/kinect.html)
