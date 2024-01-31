@@ -19,7 +19,7 @@ Check out some of my projects on GitHub or on my blog.
 - Collect data for 4 different emotions expressed by users : Happy, Mad, Sad, Anxious.
 - Train a ML Model to make predictions on what emotion the user is using based off positions on the face.
 
-[Follow along] (https://hank1wdo.com/emotions.html) or check out the [repo] (https://github.com/hcbryant9/EmotionAnalysis)
+[Follow along](https://hank1wdo.com/emotions.html) or check out the [repo](https://github.com/hcbryant9/EmotionAnalysis)
 
 
 
