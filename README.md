@@ -1,6 +1,6 @@
 ### Welcome
 
-My name is [Henry Bryant](https://hank1wdo.com/about.html). I'm currently a senior at Virginia Commonwealth University majoring in Computer Science and Software Engineering. My interests include VR, VFX, Mo-Cap, HCI, and various immersive technologies. 
+My name is [Henry Bryant](https://hank1wdo.com/about.html). I'm currently a senior at Virginia Commonwealth University majoring in Computer Science and Software Engineering. My interests include Software Development within VR, VFX, Mo-Cap, HCI, and various immersive technologies. 
 
 Check out some of my projects on GitHub or on my blog.
 
